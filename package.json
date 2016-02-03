@@ -13,6 +13,7 @@
     "gulp-imagemin": "^2.4.0",
     "gulp-sass": "~2.1.1",
     "gulp-swig": "~0.8.0",
+    "gulp-util": "^3.0.7",
     "imagemin-pngquant": "^4.2.0",
     "require-dir": "^0.3.0",
     "swig-marked": "0.0.1"

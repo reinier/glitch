@@ -3,5 +3,6 @@
 /bower_components
 /.sass-cache
 /public
+/.publish
 /build
 /dist

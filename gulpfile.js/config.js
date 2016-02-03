@@ -53,6 +53,11 @@ module.exports = {
     server: build
   },
 
+  cname: {
+    cname: 'www.glitch.show',
+    dist: dist
+  },
+
   clean: {
     all: [build, dist, './.sass-cache/'],
     build: build,
