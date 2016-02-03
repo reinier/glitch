@@ -193,5 +193,10 @@ picture {
   max-width: 100%; }
 
 h1 {
-  font-size: 3em;
-  color: #477dca; }
+  font-size: 1.6em;
+  margin-top: 2em; }
+
+section[role="main"] {
+  max-width: 48em;
+  padding: 1em 2em;
+  margin: 0 auto; }
