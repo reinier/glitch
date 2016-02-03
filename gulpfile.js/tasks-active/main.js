@@ -4,10 +4,6 @@ var gulp = require('gulp');
 gulp.task('default', ['init','watch','connect']);
 gulp.task('init', ['images','javascript','styles','templates']);
 
-// `gulp work`
-// Same as default but also opens Sublime and Chrome
-gulp.task('work', ['default','sublime','openbrowser']);
-
 // `gulp publish`
 // Publishes to github pages
 gulp.task('publish', ['clean:dist', 'dist', 'deploy']);
