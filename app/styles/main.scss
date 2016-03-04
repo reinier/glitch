@@ -7,3 +7,7 @@
 @import "bitters/base";
 
 @import "welcome";
+
+body {
+  background: #fff url('../assets/images/glitch-background.png') no-repeat center top;
+}
